@@ -2,7 +2,7 @@ import Game from './game.js'
 
 let p1, p2
 while (!p1) {
-  p1 = window.prompt('Who is player 1?')
+  p1 = window.prompt('Pray tell me, who is player 1?')
 }
 
 while (!p2 && p1 !== p2) {
